@@ -80,7 +80,7 @@
         android:layout_marginTop="172dp"
         android:fontFamily="@font/belisa_plumilla"
         android:letterSpacing="0.02"
-        android:text="1. Choose an ingredien on both the the ingredients slot selector. "
+        android:text="1. Choose an ingredient on both the the ingredients slot selector. "
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         android:textStyle="bold"
